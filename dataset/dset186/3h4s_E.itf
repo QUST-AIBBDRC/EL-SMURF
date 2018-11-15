@@ -1,0 +1,112 @@
+# Get Interface Residues : version 0.1 (by Yoichi MURAKAMI; yoichi.bioinfo@gmail.com)
+# PDB file  ./pdb/3H4S.pdb
+# Target chain : E
+# Interacting chains : A
+# Cut-off for surface: 5.0 Percentage 
+# Cut-off for interface 1.0 Angstrom^2
+#
+ITF      1 + 1 E GLU     19   189.30   109.90
+ITF      2 + 1 E THR     20    21.29    15.30
+ITF      3 - 1 E LYS     21    58.02    28.90
+ITF      4 + 1 E TYR     22   215.30   101.20
+ITF      5 - 1 E ASP     34   137.81    98.20
+ITF      6 - 1 E VAL     35    83.00    54.80
+ITF      7 + 1 E GLU     36   127.85    74.20
+ITF      8 - 1 E GLU     37   124.87    72.50
+ITF      9 + 1 E PHE     38    62.68    31.40
+ITF     10 + 1 E VAL     39    13.87     9.20
+ITF     11 + 1 E SER     40    68.34    58.70
+ITF     12 + 1 E GLU     41   111.56    64.80
+ITF     13 + 1 E LEU     42    17.99    10.10
+ITF     14 + 1 E CYS     43    27.15    20.20
+ITF     15 + 1 E LYS     44   154.69    77.00
+ITF     16 + 1 E GLY     45    26.64    33.30
+ITF     17 + 1 E PHE     46    11.75     5.90
+ITF     18 + 1 E SER     47    78.51    67.40
+ITF     19 + 1 E LEU     48    72.87    40.80
+ITF     20 + 1 E LEU     49    18.65    10.40
+ITF     21 + 1 E ALA     50     9.25     8.60
+ITF     22 - 1 E ASP     51    26.07    18.60
+ITF     23 + 1 E PRO     52   100.47    73.80
+ITF     24 - 1 E GLU     53   149.59    86.80
+ITF     25 + 1 E ARG     54   122.73    51.40
+ITF     26 + 1 E HIS     55   130.71    71.50
+ITF     27 + 1 E LEU     56    38.50    21.60
+ITF     28 + 0 E ILE     57     1.23     0.70
+ITF     29 - 1 E THR     58    17.65    12.70
+ITF     30 - 1 E ALA     59    21.92    20.30
+ITF     31 - 1 E GLU     60   119.94    69.60
+ITF     32 - 0 E SER     61     0.51     0.40
+ITF     33 + 1 E LEU     62    18.21    10.20
+ITF     34 - 1 E ARG     63    92.66    38.80
+ITF     35 - 1 E ARG     64   140.17    58.70
+ITF     36 - 1 E ASN     65    24.02    16.70
+ITF     37 + 0 E SER     66     4.47     3.80
+ITF     38 - 1 E GLY     67    42.13    52.60
+ITF     39 + 1 E ILE     68   120.22    68.60
+ITF     40 + 1 E LEU     69   105.58    59.10
+ITF     41 + 1 E GLY     70    61.88    77.30
+ITF     42 + 1 E ILE     71    82.65    47.20
+ITF     43 + 1 E GLU     72   161.32    93.70
+ITF     44 + 1 E GLY     73    80.20   100.10
+ITF     45 + 1 E MET     74    34.63    17.80
+ITF     46 - 1 E SER     75    46.54    40.00
+ITF     47 - 1 E LYS     76   103.10    51.30
+ITF     48 - 1 E GLU     77   125.96    73.10
+ITF     49 + 1 E ASP     78    64.20    45.70
+ITF     50 - 0 E ALA     79     0.33     0.30
+ITF     51 - 1 E GLN     80    76.19    42.70
+ITF     52 + 1 E GLY     81    24.86    31.00
+ITF     53 + 1 E MET     82    72.72    37.50
+ITF     54 - 0 E VAL     83     6.76     4.50
+ITF     55 + 1 E ARG     84   166.69    69.80
+ITF     56 + 1 E GLU     85   101.84    59.10
+ITF     57 - 0 E GLY     86     1.99     2.50
+ITF     58 + 1 E ASP     87    25.91    18.50
+ITF     59 + 1 E LEU     88   112.63    63.10
+ITF     60 + 1 E ASP     89    98.95    70.50
+ITF     61 + 1 E GLY     90    54.55    68.10
+ITF     62 + 1 E ASP     91    84.55    60.20
+ITF     63 - 1 E GLY     92    49.50    61.80
+ITF     64 - 0 E ALA     93     0.73     0.70
+ITF     65 + 0 E LEU     94     6.55     3.70
+ITF     66 + 1 E ASN     95    41.07    28.50
+ITF     67 + 1 E GLN     96    57.21    32.10
+ITF     68 + 1 E THR     97    53.21    38.20
+ITF     69 - 0 E GLU     98     5.44     3.20
+ITF     70 + 1 E PHE     99    11.11     5.60
+ITF     71 - 0 E CYS    100     0.00     0.00
+ITF     72 + 1 E VAL    101    47.83    31.60
+ITF     73 + 1 E LEU    102    14.32     8.00
+ITF     74 + 1 E MET    103    58.69    30.20
+ITF     75 - 1 E VAL    104    44.60    29.50
+ITF     76 - 1 E ARG    105   122.58    51.30
+ITF     77 + 1 E LEU    106    53.81    30.10
+ITF     78 + 1 E SER    107    37.51    32.20
+ITF     79 - 1 E PRO    108    69.77    51.20
+ITF     80 + 1 E GLU    109    91.22    53.00
+ITF     81 + 1 E MET    110   126.70    65.30
+ITF     82 + 1 E MET    111   119.81    61.70
+ITF     83 - 1 E GLU    112   101.26    58.80
+ITF     84 + 1 E ASP    113   103.54    73.80
+ITF     85 - 1 E ALA    114    26.09    24.20
+ITF     86 - 1 E GLU    115   114.30    66.40
+ITF     87 - 1 E THR    116    46.21    33.20
+ITF     88 - 1 E TRP    117   176.62    70.80
+ITF     89 - 1 E LEU    118   138.23    77.40
+ITF     90 - 1 E GLU    119   101.03    58.70
+ITF     91 - 1 E LYS    120   139.36    69.40
+ITF     92 - 1 E ALA    121    41.58    38.50
+ITF     93 - 1 E LEU    122   109.73    61.40
+ITF     94 - 1 E THR    123   100.57    72.20
+ITF     95 - 1 E GLN    124   132.67    74.30
+ITF     96 - 1 E GLU    125   186.93   108.50
+#
+# Interface resdieue		=       55
+# Interface ALL			=  7026.40
+# Interface BSA			=  2044.47
+# Interface Polar BSA		=   614.14
+# Interface Non-Polar BSA	=  1430.34
+# Interface Polarity		=    30.04
+#
+# chain E and resid 101 102 103 106 107 109 110 111 113 19 20 22 36 38 39 40 41 42 43 44 45 46 47 48 49 50 52 54 55 56 57 62 66 68 69 70 71 72 73 74 78 81 82 84 85 87 88 89 90 91 94 95 96 97 99 

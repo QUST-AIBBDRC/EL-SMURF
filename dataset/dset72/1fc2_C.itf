@@ -1,0 +1,60 @@
+# Get Interface Residues : version 0.1 (by Yoichi MURAKAMI; yoichi.bioinfo@gmail.com)
+# PDB file  ./pdb/1FC2.pdb
+# Target chain : C
+# Interacting chains : D
+# Cut-off for surface: 5.0 Percentage 
+# Cut-off for interface 1.0 Angstrom^2
+#
+ITF      1 + 1 C PHE    124   213.66   107.10
+ITF      2 - 1 C ASN    125   113.72    79.00
+ITF      3 - 1 C LYS    126   115.01    57.30
+ITF      4 - 1 C GLU    127   115.71    67.20
+ITF      5 + 1 C GLN    128    56.46    31.60
+ITF      6 + 1 C GLN    129    69.55    39.00
+ITF      7 + 1 C ASN    130    85.54    59.40
+ITF      8 - 0 C ALA    131     2.42     2.20
+ITF      9 + 1 C PHE    132    72.13    36.20
+ITF     10 + 1 C TYR    133   120.46    56.60
+ITF     11 + 1 C GLU    134    73.35    42.60
+ITF     12 - 0 C ILE    135     0.18     0.10
+ITF     13 + 1 C LEU    136    77.03    43.10
+ITF     14 + 1 C HIS    137   109.97    60.10
+ITF     15 - 1 C LEU    138    27.39    15.30
+ITF     16 - 1 C PRO    139   110.49    81.20
+ITF     17 - 1 C ASN    140    80.96    56.20
+ITF     18 - 0 C LEU    141     0.32     0.20
+ITF     19 - 1 C ASN    142    90.51    62.90
+ITF     20 - 1 C GLU    143   116.97    67.90
+ITF     21 - 1 C GLU    144   146.06    84.80
+ITF     22 - 1 C GLN    145    81.89    45.90
+ITF     23 + 1 C ARG    146    50.36    21.10
+ITF     24 + 1 C ASN    147    90.47    62.90
+ITF     25 - 1 C GLY    148    38.20    47.70
+ITF     26 - 1 C PHE    149    53.50    26.80
+ITF     27 + 1 C ILE    150    26.04    14.90
+ITF     28 + 1 C GLN    151    94.34    52.80
+ITF     29 - 1 C SER    152    49.92    42.90
+ITF     30 + 0 C LEU    153     3.42     1.90
+ITF     31 + 1 C LYS    154   125.46    62.50
+ITF     32 - 1 C ASP    155   111.12    79.10
+ITF     33 - 1 C ASP    156    50.40    35.90
+ITF     34 - 1 C PRO    157    39.80    29.20
+ITF     35 - 1 C SER    158    88.63    76.10
+ITF     36 - 1 C GLN    159    97.84    54.80
+ITF     37 - 1 C SER    160    11.21     9.60
+ITF     38 - 1 C ALA    161    74.67    69.20
+ITF     39 - 1 C ASN    162    64.34    44.70
+ITF     40 - 1 C LEU    163    62.54    35.00
+ITF     41 - 1 C LEU    164   103.73    58.10
+ITF     42 - 1 C ALA    165    63.51    58.80
+ITF     43 - 1 C GLU    166    99.59    57.80
+ITF     44 - 1 C ALA    167    47.78    44.30
+#
+# Interface resdieue		=       15
+# Interface ALL			=  3326.65
+# Interface BSA			=   633.51
+# Interface Polar BSA		=   243.35
+# Interface Non-Polar BSA	=   390.17
+# Interface Polarity		=    38.41
+#
+# chain C and resid 124 128 129 130 132 133 134 136 137 146 147 150 151 153 154 

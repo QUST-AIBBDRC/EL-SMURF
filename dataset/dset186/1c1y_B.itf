@@ -1,0 +1,93 @@
+# Get Interface Residues : version 0.1 (by Yoichi MURAKAMI; yoichi.bioinfo@gmail.com)
+# PDB file  ./pdb/1C1Y.pdb
+# Target chain : B
+# Interacting chains : A
+# Cut-off for surface: 5.0 Percentage 
+# Cut-off for interface 1.0 Angstrom^2
+#
+ITF      1 - 1 B SER     55   138.07   118.50
+ITF      2 - 1 B ASN     56    81.70    56.80
+ITF      3 + 1 B THR     57    45.21    32.50
+ITF      4 - 0 B ILE     58     1.69     1.00
+ITF      5 + 1 B ARG     59   108.40    45.40
+ITF      6 - 0 B VAL     60     0.21     0.10
+ITF      7 - 1 B PHE     61    76.99    38.60
+ITF      8 - 1 B LEU     62    10.13     5.70
+ITF      9 - 1 B PRO     63    19.43    14.30
+ITF     10 + 1 B ASN     64   132.59    92.10
+ITF     11 + 1 B LYS     65   204.33   101.80
+ITF     12 + 1 B GLN     66    61.26    34.30
+ITF     13 + 1 B ARG     67   160.37    67.20
+ITF     14 + 1 B THR     68    20.94    15.00
+ITF     15 + 1 B VAL     69    75.37    49.80
+ITF     16 - 1 B VAL     70    18.61    12.30
+ITF     17 + 1 B ASN     71   106.52    74.00
+ITF     18 - 0 B VAL     72     2.83     1.90
+ITF     19 - 1 B ARG     73   155.11    65.00
+ITF     20 - 1 B ASN     74   121.36    84.30
+ITF     21 - 1 B GLY     75    68.64    85.70
+ITF     22 - 1 B MET     76    36.52    18.80
+ITF     23 - 1 B SER     77    29.93    25.70
+ITF     24 - 0 B LEU     78     1.09     0.60
+ITF     25 - 1 B HIS     79    58.69    32.10
+ITF     26 - 1 B ASP     80    66.58    47.40
+ITF     27 - 0 B CYS     81     5.73     4.30
+ITF     28 - 0 B LEU     82     0.37     0.20
+ITF     29 - 1 B MET     83    60.37    31.10
+ITF     30 + 1 B LYS     84   147.70    73.60
+ITF     31 - 1 B ALA     85    10.81    10.00
+ITF     32 - 0 B LEU     86     0.00     0.00
+ITF     33 + 1 B LYS     87   149.22    74.30
+ITF     34 + 1 B VAL     88   115.04    76.00
+ITF     35 + 1 B ARG     89    79.52    33.30
+ITF     36 + 1 B GLY     90    66.46    83.00
+ITF     37 - 1 B LEU     91    18.75    10.50
+ITF     38 - 1 B GLN     92   100.83    56.50
+ITF     39 - 1 B PRO     93    13.47     9.90
+ITF     40 - 1 B GLU     94   116.31    67.50
+ITF     41 - 1 B CYS     95    62.03    46.20
+ITF     42 - 0 B CYS     96     2.22     1.70
+ITF     43 - 0 B ALA     97     4.22     3.90
+ITF     44 - 0 B VAL     98     0.28     0.20
+ITF     45 - 1 B PHE     99    37.08    18.60
+ITF     46 - 1 B ARG    100    90.02    37.70
+ITF     47 - 1 B LEU    101    26.01    14.60
+ITF     48 - 1 B LEU    102    37.54    21.00
+ITF     49 - 1 B HIS    103   113.72    62.20
+ITF     50 - 1 B GLU    104   164.32    95.40
+ITF     51 - 1 B HIS    105   119.58    65.40
+ITF     52 - 1 B LYS    106   196.50    97.90
+ITF     53 - 1 B GLY    107    47.39    59.20
+ITF     54 - 1 B LYS    108   129.56    64.50
+ITF     55 - 1 B LYS    109    84.00    41.80
+ITF     56 - 1 B ALA    110    32.30    29.90
+ITF     57 - 1 B ARG    111   155.89    65.30
+ITF     58 - 1 B LEU    112    36.89    20.60
+ITF     59 - 1 B ASP    113    84.81    60.40
+ITF     60 - 1 B TRP    114    37.40    15.00
+ITF     61 - 1 B ASN    115   105.75    73.50
+ITF     62 - 1 B THR    116    34.06    24.50
+ITF     63 - 1 B ASP    117    67.17    47.80
+ITF     64 - 0 B ALA    118     0.00     0.00
+ITF     65 - 1 B ALA    119    33.24    30.80
+ITF     66 - 1 B SER    120    84.31    72.40
+ITF     67 - 1 B LEU    121    10.15     5.70
+ITF     68 - 1 B ILE    122    58.65    33.50
+ITF     69 - 1 B GLY    123    50.51    63.10
+ITF     70 - 1 B GLU    124    42.28    24.50
+ITF     71 - 1 B GLU    125    43.03    25.00
+ITF     72 - 0 B LEU    126     0.00     0.00
+ITF     73 - 1 B GLN    127    52.04    29.20
+ITF     74 - 0 B VAL    128     0.60     0.40
+ITF     75 - 1 B ASP    129    36.94    26.30
+ITF     76 - 1 B PHE    130   120.56    60.40
+ITF     77 - 1 B LEU    131   144.01    80.60
+#
+# Interface resdieue		=       14
+# Interface ALL			=  5032.21
+# Interface BSA			=   613.44
+# Interface Polar BSA		=   349.21
+# Interface Non-Polar BSA	=   264.21
+# Interface Polarity		=    56.93
+#
+# chain B and resid 57 59 64 65 66 67 68 69 71 84 87 88 89 90 

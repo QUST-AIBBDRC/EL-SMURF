@@ -1,0 +1,136 @@
+# Get Interface Residues : version 0.1 (by Yoichi MURAKAMI; yoichi.bioinfo@gmail.com)
+# PDB file  ./pdb/1ZBX.pdb
+# Target chain : B
+# Interacting chains : A
+# Cut-off for surface: 5.0 Percentage 
+# Cut-off for interface 1.0 Angstrom^2
+#
+ITF      1 - 1 B THR    485   126.22    90.60
+ITF      2 - 1 B GLU    486   140.49    81.60
+ITF      3 + 1 B GLU    487   102.63    59.60
+ITF      4 + 1 B GLU    488    75.59    43.90
+ITF      5 + 1 B TYR    489   111.93    52.60
+ITF      6 + 0 B VAL    490     5.85     3.90
+ITF      7 + 1 B SER    491    19.02    16.30
+ITF      8 + 1 B PRO    492   125.87    92.50
+ITF      9 + 1 B ARG    493    86.25    36.10
+ITF     10 - 0 B PHE    494     3.59     1.80
+ITF     11 - 0 B LEU    495     0.04     0.00
+ITF     12 - 0 B VAL    496     1.38     0.90
+ITF     13 - 0 B ALA    497     0.61     0.60
+ITF     14 - 1 B ASP    498    36.18    25.80
+ITF     15 - 1 B GLY    499     6.95     8.70
+ITF     16 - 0 B PHE    500     1.77     0.90
+ITF     17 - 0 B LEU    501     0.08     0.00
+ITF     18 - 0 B ILE    502     0.00     0.00
+ITF     19 + 0 B ASP    503     2.71     1.90
+ITF     20 + 1 B LEU    504    42.39    23.70
+ITF     21 + 1 B ALA    505    67.71    62.70
+ITF     22 + 1 B GLU    506    78.02    45.30
+ITF     23 + 1 B GLU    507    79.16    46.00
+ITF     24 - 1 B LYS    508    88.31    44.00
+ITF     25 - 0 B PRO    509     5.51     4.00
+ITF     26 - 1 B ILE    510    18.96    10.80
+ITF     27 - 1 B ASN    511    24.15    16.80
+ITF     28 - 1 B PRO    512    38.31    28.10
+ITF     29 - 1 B LYS    513   141.43    70.40
+ITF     30 - 1 B ASP    514    31.69    22.60
+ITF     31 - 1 B PRO    515    97.16    71.40
+ITF     32 + 1 B ARG    516   145.87    61.10
+ITF     33 - 0 B LEU    517     8.11     4.50
+ITF     34 - 1 B LEU    518   118.00    66.10
+ITF     35 + 1 B THR    519   118.74    85.30
+ITF     36 + 1 B LEU    520    79.23    44.40
+ITF     37 - 0 B LEU    521     6.95     3.90
+ITF     38 - 1 B LYS    522   139.95    69.70
+ITF     39 - 1 B ASP    523   104.53    74.50
+ITF     40 + 1 B HIS    524   106.83    58.40
+ITF     41 - 1 B GLN    525    17.17     9.60
+ITF     42 - 1 B ARG    526    59.29    24.80
+ITF     43 - 1 B ALA    527    45.01    41.70
+ITF     44 + 1 B MET    528    66.40    34.20
+ITF     45 - 1 B ILE    529    17.80    10.20
+ITF     46 - 1 B ASP    530   107.48    76.60
+ITF     47 - 1 B GLN    531   153.57    86.00
+ITF     48 - 1 B MET    532    41.68    21.50
+ITF     49 - 1 B ASN    533   129.11    89.70
+ITF     50 - 1 B LEU    534    35.58    19.90
+ITF     51 - 1 B VAL    535    49.87    32.90
+ITF     52 - 1 B LYS    536   137.03    68.20
+ITF     53 - 1 B TRP    537    13.62     5.50
+ITF     54 - 1 B ASN    538    66.27    46.00
+ITF     55 - 1 B ASP    539    70.41    50.20
+ITF     56 - 1 B PHE    540    17.69     8.90
+ITF     57 - 1 B LYS    541    79.59    39.60
+ITF     58 - 1 B LYS    542   137.27    68.40
+ITF     59 - 1 B TYR    543   109.93    51.70
+ITF     60 - 1 B GLN    544   168.00    94.10
+ITF     61 - 1 B ASP    545    47.25    33.70
+ITF     62 - 1 B PRO    546     7.52     5.50
+ITF     63 - 1 B ILE    547    36.36    20.80
+ITF     64 - 1 B PRO    548    33.50    24.60
+ITF     65 - 1 B LEU    549    31.41    17.60
+ITF     66 - 1 B LYS    550   139.06    69.20
+ITF     67 - 0 B ALA    551     2.08     1.90
+ITF     68 - 1 B LYS    552   126.53    63.00
+ITF     69 - 1 B THR    553    25.61    18.40
+ITF     70 - 0 B LEU    554     0.00     0.00
+ITF     71 - 1 B PHE    555    21.03    10.50
+ITF     72 + 1 B LYS    556   150.11    74.80
+ITF     73 + 1 B PHE    557    57.81    29.00
+ITF     74 - 1 B CYS    558     8.35     6.20
+ITF     75 - 1 B LYS    559   120.36    59.90
+ITF     76 - 1 B GLN    560    71.06    39.80
+ITF     77 - 1 B ILE    561    78.39    44.80
+ITF     78 - 1 B LYS    562   118.81    59.20
+ITF     79 - 1 B LYS    563    68.71    34.20
+ITF     80 - 1 B LYS    564   109.77    54.70
+ITF     81 - 0 B PHE    565     4.33     2.20
+ITF     82 - 1 B LEU    566    65.84    36.90
+ITF     83 - 1 B ARG    567   110.93    46.50
+ITF     84 - 1 B GLY    568    24.10    30.10
+ITF     85 - 1 B ALA    569    90.54    83.90
+ITF     86 - 1 B ASP    570    67.92    48.40
+ITF     87 - 1 B PHE    571   186.67    93.60
+ITF     88 - 1 B LYS    572   106.55    53.10
+ITF     89 - 0 B LEU    573     7.59     4.30
+ITF     90 - 1 B HIS    574    47.01    25.70
+ITF     91 - 1 B THR    575    76.19    54.70
+ITF     92 - 1 B LEU    576    66.51    37.20
+ITF     93 - 1 B PRO    577   163.64   120.20
+ITF     94 - 1 B MET    589   158.47    81.60
+ITF     95 - 1 B THR    590    83.77    60.10
+ITF     96 - 1 B VAL    591    19.12    12.60
+ITF     97 - 1 B LEU    592   101.25    56.70
+ITF     98 - 0 B CYS    593     3.89     2.90
+ITF     99 - 1 B SER    594    31.63    27.20
+ITF    100 - 0 B CYS    595     0.00     0.00
+ITF    101 - 0 B VAL    596     0.41     0.30
+ITF    102 - 1 B PRO    597    44.61    32.80
+ITF    103 - 0 B ILE    598     3.57     2.00
+ITF    104 - 1 B LEU    599   108.40    60.70
+ITF    105 - 0 B LEU    600     4.24     2.40
+ITF    106 - 1 B ASP    601    84.22    60.00
+ITF    107 - 1 B ASP    602    67.75    48.30
+ITF    108 - 1 B GLN    603   121.01    67.80
+ITF    109 - 1 B THR    604    65.59    47.10
+ITF    110 - 1 B VAL    605    66.68    44.00
+ITF    111 - 0 B GLN    606     7.32     4.10
+ITF    112 - 1 B TYR    607    39.85    18.70
+ITF    113 - 0 B LEU    608     0.22     0.10
+ITF    114 - 0 B TYR    609    10.41     4.90
+ITF    115 - 1 B ASP    610    19.93    14.20
+ITF    116 - 1 B ASP    611    72.15    51.40
+ITF    117 - 1 B SER    612    64.00    54.90
+ITF    118 - 1 B LEU    613    96.93    54.30
+ITF    119 - 1 B GLU    614   171.38    99.50
+ITF    120 - 1 B HIS    615    75.87    41.50
+#
+# Interface resdieue		=       19
+# Interface ALL			=  7705.15
+# Interface BSA			=   644.05
+# Interface Polar BSA		=   230.26
+# Interface Non-Polar BSA	=   413.79
+# Interface Polarity		=    35.75
+#
+# chain B and resid 487 488 489 490 491 492 493 503 504 505 506 507 516 519 520 524 528 556 557 

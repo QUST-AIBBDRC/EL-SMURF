@@ -1,0 +1,167 @@
+# Get Interface Residues : version 0.1 (by Yoichi MURAKAMI; yoichi.bioinfo@gmail.com)
+# PDB file  ./pdb/2P7V.pdb
+# Target chain : A
+# Interacting chains : B
+# Cut-off for surface: 5.0 Percentage 
+# Cut-off for interface 1.0 Angstrom^2
+#
+ITF      1 - 1 A MET      1    51.55    26.60
+ITF      2 - 1 A LEU      2    51.96    29.10
+ITF      3 - 1 A ASN      3   113.32    78.70
+ITF      4 - 1 A GLN      4    95.42    53.50
+ITF      5 - 0 A LEU      5     8.16     4.60
+ITF      6 - 1 A ASP      6    69.56    49.60
+ITF      7 - 1 A ASN      7   107.46    74.70
+ITF      8 - 1 A LEU      8    26.93    15.10
+ITF      9 - 1 A THR      9    28.40    20.40
+ITF     10 - 1 A GLU     10    81.23    47.20
+ITF     11 - 1 A ARG     11   184.63    77.30
+ITF     12 - 0 A VAL     12     2.79     1.80
+ITF     13 - 1 A ARG     13   134.38    56.30
+ITF     14 - 1 A GLY     14    67.51    84.30
+ITF     15 - 1 A SER     15    80.18    68.80
+ITF     16 - 1 A ASN     16    32.28    22.40
+ITF     17 - 1 A LYS     17   156.84    78.10
+ITF     18 - 1 A LEU     18     9.20     5.20
+ITF     19 - 0 A VAL     19     1.67     1.10
+ITF     20 - 1 A ASP     20    45.31    32.30
+ITF     21 - 1 A ARG     21   124.16    52.00
+ITF     22 - 0 A TRP     22     6.85     2.70
+ITF     23 - 0 A LEU     23     2.14     1.20
+ITF     24 - 1 A HIS     24   100.90    55.20
+ITF     25 - 1 A VAL     25    59.93    39.60
+ITF     26 - 0 A ARG     26     5.38     2.30
+ITF     27 - 1 A LYS     27   100.81    50.20
+ITF     28 - 1 A HIS     28   113.14    61.90
+ITF     29 - 0 A LEU     29     1.80     1.00
+ITF     30 - 0 A LEU     30     0.50     0.30
+ITF     31 - 1 A VAL     31    57.78    38.20
+ITF     32 - 1 A ALA     32    16.56    15.30
+ITF     33 - 0 A TYR     33     9.41     4.40
+ITF     34 - 1 A TYR     34    76.31    35.90
+ITF     35 - 1 A ASN     35    87.20    60.60
+ITF     36 - 1 A LEU     36    10.33     5.80
+ITF     37 - 1 A VAL     37    41.80    27.60
+ITF     38 - 1 A GLY     38    60.85    76.00
+ITF     39 - 1 A ILE     39    54.81    31.30
+ITF     40 - 1 A LYS     40    90.14    44.90
+ITF     41 - 1 A PRO     41    72.08    52.90
+ITF     42 - 1 A GLY     42   131.26   163.90
+ITF     43 - 1 A ASN     50    98.98    68.80
+ITF     44 - 1 A GLU     51   138.18    80.20
+ITF     45 - 1 A LYS     52    76.63    38.20
+ITF     46 - 1 A ALA     53    19.26    17.80
+ITF     47 - 1 A LEU     54    31.74    17.80
+ITF     48 + 1 A ASP     55    76.34    54.40
+ITF     49 - 1 A ASP     56    76.55    54.50
+ITF     50 - 0 A PHE     57     1.96     1.00
+ITF     51 + 1 A CYS     58    16.47    12.30
+ITF     52 + 1 A GLN     59   125.62    70.40
+ITF     53 + 1 A SER     60    33.29    28.60
+ITF     54 - 0 A LEU     61     0.36     0.20
+ITF     55 + 1 A VAL     62    54.02    35.70
+ITF     56 + 1 A ASP     63    88.50    63.00
+ITF     57 - 0 A TYR     64     6.08     2.90
+ITF     58 + 0 A LEU     65     7.38     4.10
+ITF     59 + 1 A SER     66    39.98    34.30
+ITF     60 + 1 A ALA     67    27.59    25.60
+ITF     61 - 0 A GLY     68     2.36     2.90
+ITF     62 + 1 A HIS     69    45.23    24.70
+ITF     63 + 1 A PHE     70   165.96    83.20
+ITF     64 + 1 A SER     71    51.92    44.60
+ITF     65 - 1 A ILE     72    17.89    10.20
+ITF     66 - 1 A TYR     73    13.50     6.30
+ITF     67 - 1 A GLU     74    93.63    54.40
+ITF     68 + 1 A ARG     75   115.30    48.30
+ITF     69 - 0 A ILE     76     0.66     0.40
+ITF     70 - 1 A LEU     77    60.71    34.00
+ITF     71 - 1 A HIS     78   148.40    81.10
+ITF     72 - 1 A LYS     79    78.99    39.30
+ITF     73 - 1 A LEU     80    14.37     8.00
+ITF     74 - 1 A GLU     81    48.33    28.10
+ITF     75 - 1 A GLY     82    18.09    22.60
+ITF     76 - 1 A ASN     83   118.62    82.40
+ITF     77 - 1 A GLY     84    59.77    74.60
+ITF     78 - 0 A GLN     85     8.37     4.70
+ITF     79 - 1 A LEU     86    72.49    40.60
+ITF     80 - 1 A ALA     87    46.65    43.20
+ITF     81 - 1 A ARG     88   136.65    57.20
+ITF     82 - 0 A ALA     89     0.32     0.30
+ITF     83 - 1 A ALA     90    52.56    48.70
+ITF     84 - 1 A LYS     91   143.14    71.30
+ITF     85 - 0 A ILE     92     7.91     4.50
+ITF     86 - 1 A TRP     93    66.10    26.50
+ITF     87 - 1 A PRO     94    75.90    55.80
+ITF     88 - 1 A GLN     95    93.10    52.20
+ITF     89 - 0 A LEU     96     0.60     0.30
+ITF     90 + 1 A GLU     97   111.17    64.50
+ITF     91 - 1 A ALA     98    61.61    57.10
+ITF     92 - 1 A ASN     99     9.73     6.80
+ITF     93 + 1 A THR    100    17.50    12.60
+ITF     94 + 1 A GLN    101   110.27    61.80
+ITF     95 - 1 A GLN    102    83.36    46.70
+ITF     96 - 0 A ILE    103     0.00     0.00
+ITF     97 + 1 A MET    104    44.45    22.90
+ITF     98 + 1 A ASP    105    89.09    63.50
+ITF     99 - 1 A TYR    106    50.98    24.00
+ITF    100 + 1 A TYR    107    61.94    29.10
+ITF    101 + 1 A ASP    108    80.15    57.10
+ITF    102 - 1 A SER    109    64.77    55.60
+ITF    103 - 1 A SER    110    36.66    31.50
+ITF    104 - 1 A LEU    111    12.76     7.10
+ITF    105 - 1 A GLU    112    93.61    54.30
+ITF    106 - 1 A THR    113    74.48    53.50
+ITF    107 - 1 A ALA    114     6.49     6.00
+ITF    108 - 1 A ILE    115    65.17    37.20
+ITF    109 - 1 A ASP    116   105.22    74.90
+ITF    110 - 1 A HIS    117   114.82    62.80
+ITF    111 - 1 A ASP    118   132.47    94.40
+ITF    112 - 1 A ASN    119    39.70    27.60
+ITF    113 - 1 A TYR    120    79.48    37.40
+ITF    114 - 1 A LEU    121   127.86    71.60
+ITF    115 - 1 A GLU    122   103.48    60.10
+ITF    116 - 1 A PHE    123    29.00    14.50
+ITF    117 - 1 A GLN    124    55.05    30.80
+ITF    118 - 1 A GLN    125   102.26    57.30
+ITF    119 - 1 A VAL    126    12.30     8.10
+ITF    120 - 0 A LEU    127     1.25     0.70
+ITF    121 - 1 A SER    128    48.01    41.20
+ITF    122 - 1 A ASP    129    34.95    24.90
+ITF    123 - 0 A ILE    130     0.26     0.10
+ITF    124 - 1 A GLY    131     4.42     5.50
+ITF    125 - 1 A GLU    132   106.83    62.00
+ITF    126 - 0 A ALA    133     1.65     1.50
+ITF    127 - 0 A LEU    134     0.00     0.00
+ITF    128 - 1 A GLU    135    65.05    37.80
+ITF    129 - 1 A ALA    136    45.28    41.90
+ITF    130 - 0 A ARG    137     0.51     0.20
+ITF    131 - 1 A PHE    138    13.83     6.90
+ITF    132 - 1 A VAL    139    84.51    55.80
+ITF    133 - 1 A LEU    140    19.13    10.70
+ITF    134 - 0 A GLU    141     0.94     0.50
+ITF    135 - 1 A ASP    142    38.14    27.20
+ITF    136 - 1 A LYS    143    86.97    43.30
+ITF    137 - 0 A LEU    144     0.04     0.00
+ITF    138 - 0 A ILE    145     0.41     0.20
+ITF    139 - 1 A LEU    146    82.58    46.20
+ITF    140 - 1 A LEU    147    12.60     7.10
+ITF    141 - 1 A VAL    148     9.46     6.20
+ITF    142 - 1 A LEU    149    28.60    16.00
+ITF    143 - 1 A ASP    150    64.55    46.00
+ITF    144 - 1 A ALA    151     7.52     7.00
+ITF    145 - 1 A ALA    152    75.85    70.30
+ITF    146 - 1 A ARG    153   176.56    74.00
+ITF    147 - 1 A VAL    154    70.88    46.80
+ITF    148 - 1 A LYS    155   116.86    58.20
+ITF    149 - 1 A HIS    156    82.75    45.20
+ITF    150 - 1 A PRO    157   140.98   103.60
+ITF    151 - 1 A ALA    158   135.45   125.50
+#
+# Interface resdieue		=       20
+# Interface ALL			=  8782.02
+# Interface BSA			=   748.26
+# Interface Polar BSA		=   327.61
+# Interface Non-Polar BSA	=   420.67
+# Interface Polarity		=    43.78
+#
+# chain A and resid 100 101 104 105 107 108 55 58 59 60 62 63 65 66 67 69 70 71 75 97 

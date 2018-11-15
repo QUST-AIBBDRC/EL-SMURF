@@ -1,0 +1,80 @@
+# Get Interface Residues : version 0.1 (by Yoichi MURAKAMI; yoichi.bioinfo@gmail.com)
+# PDB file  ./pdb/1ML0.pdb
+# Target chain : D
+# Interacting chains : A
+# Cut-off for surface: 5.0 Percentage 
+# Cut-off for interface 1.0 Angstrom^2
+#
+ITF      1 + 1 D ALA      8   155.82   144.30
+ITF      2 + 1 D VAL      9    76.62    50.60
+ITF      3 + 1 D THR     10    96.98    69.60
+ITF      4 + 1 D CYS     11    26.01    19.40
+ITF      5 + 0 D CYS     12     1.22     0.90
+ITF      6 + 1 D TYR     13   128.92    60.60
+ITF      7 + 1 D ASN     14   119.01    82.70
+ITF      8 + 1 D PHE     15    52.80    26.50
+ITF      9 + 1 D THR     16    32.17    23.10
+ITF     10 - 1 D ASN     17   128.94    89.60
+ITF     11 - 1 D ARG     18   198.82    83.30
+ITF     12 - 1 D LYS     19   133.05    66.30
+ITF     13 - 1 D ILE     20    28.61    16.30
+ITF     14 - 1 D SER     21    52.83    45.40
+ITF     15 - 1 D VAL     22    48.86    32.30
+ITF     16 - 1 D GLN     23   123.07    68.90
+ITF     17 - 1 D ARG     24   133.14    55.80
+ITF     18 - 0 D LEU     25     7.99     4.50
+ITF     19 - 1 D ALA     26    49.84    46.20
+ITF     20 - 1 D SER     27    50.20    43.10
+ITF     21 - 1 D TYR     28    50.67    23.80
+ITF     22 - 1 D ARG     29   110.30    46.20
+ITF     23 - 1 D ARG     30   123.21    51.60
+ITF     24 - 1 D ILE     31    24.01    13.70
+ITF     25 - 1 D THR     32   124.90    89.70
+ITF     26 - 1 D SER     33    43.52    37.40
+ITF     27 - 1 D SER     34   114.58    98.40
+ITF     28 + 1 D LYS     35   163.80    81.60
+ITF     29 - 1 D CYS     36    19.32    14.40
+ITF     30 + 1 D PRO     37    90.72    66.60
+ITF     31 + 1 D LYS     38    88.47    44.10
+ITF     32 - 1 D GLU     39   118.32    68.70
+ITF     33 - 0 D ALA     40     1.54     1.40
+ITF     34 - 0 D VAL     41     0.12     0.10
+ITF     35 + 1 D ILE     42     9.44     5.40
+ITF     36 - 0 D PHE     43     0.00     0.00
+ITF     37 - 1 D LYS     44    72.34    36.00
+ITF     38 - 1 D THR     45    15.84    11.40
+ITF     39 - 1 D ILE     46   105.07    60.00
+ITF     40 - 1 D VAL     47    91.36    60.30
+ITF     41 - 1 D ALA     48    79.07    73.20
+ITF     42 - 1 D LYS     49   121.20    60.40
+ITF     43 + 1 D GLU     50    93.78    54.40
+ITF     44 + 1 D ILE     51    52.79    30.10
+ITF     45 + 1 D CYS     52    31.31    23.30
+ITF     46 - 0 D ALA     53     0.00     0.00
+ITF     47 - 1 D ASP     54    20.04    14.30
+ITF     48 - 1 D PRO     55    15.13    11.10
+ITF     49 - 1 D LYS     56   164.59    82.00
+ITF     50 - 1 D GLN     57    52.67    29.50
+ITF     51 - 1 D LYS     58   151.89    75.60
+ITF     52 - 1 D TRP     59    33.68    13.50
+ITF     53 - 0 D VAL     60     0.00     0.00
+ITF     54 - 1 D GLN     61    79.23    44.40
+ITF     55 - 1 D ASP     62    58.51    41.70
+ITF     56 - 0 D SER     63     2.00     1.70
+ITF     57 - 1 D ILE     64    14.67     8.40
+ITF     58 - 1 D ASP     65    70.69    50.30
+ITF     59 - 1 D HIS     66    89.11    48.70
+ITF     60 - 1 D LEU     67    16.33     9.10
+ITF     61 - 1 D ASP     68    73.83    52.60
+ITF     62 - 1 D LYS     69   167.83    83.60
+ITF     63 - 1 D GLN     70   113.67    63.70
+ITF     64 - 1 D THR     71   152.81   109.70
+#
+# Interface resdieue		=       16
+# Interface ALL			=  4667.26
+# Interface BSA			=   499.87
+# Interface Polar BSA		=   214.56
+# Interface Non-Polar BSA	=   285.30
+# Interface Polarity		=    42.92
+#
+# chain D and resid 10 11 12 13 14 15 16 35 37 38 42 50 51 52 8 9 
